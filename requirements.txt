@@ -1,0 +1,6 @@
+semver~=2.13.0
+mip~=1.13.0
+PyMySQL~=1.0.2
+DBUtils~=1.2
+demjson~=2.2.4
+bayesian-optimization~=1.2.0
